@@ -1,0 +1,21 @@
+.imagem {
+  width: 230px;
+  height: 150px;
+}
+
+.imagem-rodape {
+  width: 125px;
+  height: 125px;
+
+  border-radius: 100%;
+}
+
+.conteudo-galeria{
+    display: flex;
+    background-color: green;
+    width: 250px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+  
+  }
