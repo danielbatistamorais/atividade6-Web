@@ -14,6 +14,17 @@
     display: flex;
     background-color: rgb(81, 153, 81);
     align-items: center;
-    justify-content: center;
-  
+    justify-content: center;  
+  }
+
+  .bg1{
+    background-color: gainsboro;
+  }
+
+  .text-area{
+    box-sizing: 100px;
+  }
+
+  .borda-div{
+    border-bottom: black solid 2px;
   }
